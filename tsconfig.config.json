@@ -1,0 +1,10 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "include": ["vite.config.*", "vitest.config.*", "cypress.config.*"],
+  "compilerOptions": {
+    "composite": true,
+    "types": ["node"],
+    "ignoreDeprecations": "5.0", // 忽略废弃警告
+    "verbatimModuleSyntax": true // 替换废弃选项
+  }
+}

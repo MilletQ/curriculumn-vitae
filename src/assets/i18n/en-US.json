@@ -1,0 +1,28 @@
+{
+  "resume": "Resume",
+  "information": "Informations",
+  "skills": "Skills",
+  "language": "Language",
+  "about": "About me",
+  "experience": "Experience",
+  "education": "Education",
+  "project": "Projects",
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "dark_mode": "Enable dark mode?",
+    "zh": "Chinese",
+    "en": "English"
+  },
+  "paginate": {
+    "count": "Showing {first} to {last} of {total} results",
+    "previous_page": "Previous page",
+    "next_page": "Next page",
+    "first_page": "First page",
+    "last_page": "last page"
+  },
+  "contact": "Contact",
+  "projects": "Projects",
+  "contributions": "Contributions",
+  "userConfirme": "Do you want to download this resume as a PDF?"
+}
