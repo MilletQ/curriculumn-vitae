@@ -299,23 +299,6 @@ onMounted(() => {
     }
   }
 }
-@media (max-width: 768px) {
-  #resume2 {
-    .col {
-      grid-template-columns: 1fr; /* 小屏幕下让每个栏都占据整个行宽 */
-      grid-template-rows: auto auto; /* 左边栏在上，右边栏在下 */
-      row-gap: 20px; /* 设置上下栏之间的间距 */
-
-      .left-col,
-      .right-col {
-        width: inherit; /* 左右栏都占据全宽 */
-        padding-left: 50px;
-        padding-right: 50px;
-        justify-self: center; /* 在小屏幕下居中 */
-      }
-    }
-  }
-}
 .dark {
   h3 {
     color: #f5f5f5; // 夜间模式下的文本颜色，例如夜间的浅色
