@@ -5,6 +5,6 @@ export interface Experience {
   location: string;
   workType: string;
   start: string;
-  end?: string;
+  end: string;
   description: string;
 }

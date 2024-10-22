@@ -152,7 +152,7 @@ onMounted(() => {
   }
   .top-row {
     width: 100%;
-    padding-top: 30px;
+    padding-top: 0px;
     padding-bottom: 90px;
     span {
       width: 100%;

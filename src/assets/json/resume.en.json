@@ -112,37 +112,27 @@
       "collegeLogo": "img/college/huaqiao.jpg",
       "course": "Civil Engineering",
       "start": "2013",
-      "end": "2017",
-      "url": ""
+      "end": "2017"
     }
   ],
   "project": [
     {
       "name": "MES Intelligent Manufacturing Platform",
-      "description": "A platform managing component production, warehousing, logistics, and installation, optimizing communication and production management.",
+      "description": "A Platform supports the entire process of component production, warehousing, logistics, and installation, serving component manufacturing companies. It provides digital solutions for stages such as project material requests, production preparation, production process, component storage, logistics transportation, and on-site installation.",
       "language": "Vue3, NodeJS, MySQL, Redis",
-      "image": "img/project/mes.png",
-      "stars": "+138k",
-      "forks": "23.8k",
-      "url": "https://github.com/microsoft/vscode"
+      "image": "img/project/mes.png"
     },
     {
       "name": "CRM Customer Marketing Platform",
-      "description": "A CRM solution for managing leads, customers, projects, contracts, and payments, enhancing business-customer relationships.",
+      "description": "The Platform is a comprehensive software solution aimed at helping businesses build, maintain, and enhance relationships with customers.",
       "language": "Vue3, NodeJS, MySQL, Redis",
-      "image": "img/project/crm.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "image": "img/project/crm.png"
     },
     {
       "name": "Revit Aluminum Formwork Design System",
-      "description": "A Revit plugin for automating aluminum formwork design, supporting modeling, drawing export, BOM, and platform integration.",
+      "description": "The System is a specialized plugin developed on the Revit platform to streamline the aluminum formwork design process. It supports automated modeling, batch model adjustments, drawing editing, automated annotation, batch drawing export, BOM export, and data integration with external platforms.",
       "language": "C#, WPF, RevitAPI",
-      "image": "img/project/revit.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "image": "img/project/revit.png"
     }
   ]
 }

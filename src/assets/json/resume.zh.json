@@ -112,8 +112,7 @@
       "collegeLogo": "img/college/huaqiao.jpg",
       "course": "土木工程",
       "start": "2013",
-      "end": "2017",
-      "url": ""
+      "end": "2017"
     }
   ],
   "project": [
@@ -121,28 +120,19 @@
       "name": "MES智能生产平台",
       "description": "MES智能生产平台围绕构件生产、仓储、物流、安装全过程业务，服务于构件生产企业，提供项目要货、生产准备、生产过程、构件存储、物流运输、现场吊装各阶段的信息化应用，辅助管理人员提高多方沟通效率，提升生产管理的科学性。",
       "language": "Vue3、NodeJS、MySQL、Redis",
-      "image": "img/project/mes.png",
-      "stars": "+138k",
-      "forks": "23.8k",
-      "url": "https://github.com/microsoft/vscode"
+      "image": "img/project/mes.png"
     },
     {
       "name": "CRM客户营销平台",
       "description": "CRM客户营销平台是一款旨在帮助企业建立、维护和提升与客户之间关系的综合性软件解决方案。支持线索管理、商机管理、客户管理、项目管理、合同登记、合同执行登记、对账单管理、合同回款的完整客户关系业务管理体系。",
       "language": "Vue3、NodeJS、MySQL、Redis",
-      "image": "img/project/crm.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "image": "img/project/crm.png"
     },
     {
       "name": "Revit铝模深化设计系统",
       "description": "Revit铝模深化设计系统是基于Revit平台进行二次开发的深化设计插件，对铝模设计业务流程进行全链路辅助。支持铝模自动化建模，模型批量调整，加工图纸编辑，自动化图纸标注，批量图纸导出，构件BOM数量导出以及平台数据对接。",
       "language": "C#、WPF、RevitAPI",
-      "image": "img/project/revit.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "image": "img/project/revit.png"
     }
   ]
 }

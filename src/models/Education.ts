@@ -3,6 +3,5 @@ export interface Education {
   collegeLogo: string;
   course: string;
   start: string;
-  end?: string;
-  url?: string;
+  end: string;
 }

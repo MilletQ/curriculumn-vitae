@@ -19,7 +19,7 @@ const showProfileImage = () => {
 </script>
 
 <template>
-  <div class="card h-36">
+  <div class="card h-fit">
     <div class="flex items-start justify-between">
       <div class="flex items-start gap-3">
         <!-- Start profile avatar -->

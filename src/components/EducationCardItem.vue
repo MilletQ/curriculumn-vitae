@@ -7,7 +7,7 @@ defineProps<{ item: Education; separator: boolean }>();
 </script>
 
 <template>
-  <div class="mb-5 flex items-start">
+  <div class="flex items-start">
     <img
       :src="getImagePath(item.collegeLogo)"
       alt="Avatar"
