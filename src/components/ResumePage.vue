@@ -107,25 +107,18 @@ import { onMounted, ref } from 'vue';
 import { useI18n } from 'vue-i18n';
 
 const { t } = useI18n({ useScope: 'global' });
-
 const resumeStore = useResumeStore();
 const { resume } = storeToRefs(resumeStore);
-
 // 绑定到要转换为PDF的DOM元素
 const content = ref<HTMLElement>();
 onMounted(() => {
   const opt = {
-    // pagebreak: { mode: 'avoid-all', after: '#col' },
     filename: `${t('resume')}.pdf`, // 输出的PDF文件名
     image: { type: 'jpeg', quality: 0.98 },
     html2canvas: { scale: 2, width: 1152, height: 1629 }, // 更高分辨率
     jsPDF: { orientation: 'portrait' }, // 设置纸张格式
   };
-  // const userConfirmed = window.confirm(`${t('userConfirme')}`);
-  // if (userConfirmed) {
   html2pdf().from(content.value).set(opt).save();
-  // }
-  //调用html2pdf将元素转换为PDF并下载;
 });
 </script>
 
