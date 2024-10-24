@@ -6,6 +6,7 @@ import router from './router';
 import VueEasyLightbox from 'vue-easy-lightbox';
 import './assets/css/main.css';
 import enUS from './assets/i18n/en-US.json';
+
 import zhCN from './assets/i18n/zh-CN.json';
 
 type MessageSchema = typeof enUS;
