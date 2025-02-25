@@ -1,0 +1,132 @@
+{
+  "profile": {
+    "name": "颜志敏",
+    "job": "Web全栈工程师、Revit二次开发工程师、数码爱好者、米粉",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "我是一名全栈开发工程师，拥有土木工程背景，做过C#下的Revit二次开发，现专注于web开发。使用Vue.js、NestJS、Prisma、MySQL和Redis等技术进行前后端开发。我具备较强的技术解决能力、团队合作精神，并能快速适应新环境。希望能在web开发领域贡献我的技能并持续成长。",
+    "socialNetwork": [
+      {
+        "name": "Github",
+        "url": "https://github.com/MilletQ"
+      },
+      {
+        "name": "Weibo",
+        "url": "https://m.weibo.cn/u/3846297987"
+      },
+      {
+        "name": "bilibili",
+        "url": "https://space.bilibili.com/9673347/"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF简历下载",
+    "value": "颜志敏 - 个人简历"
+  },
+  "information": [
+    {
+      "icon": "HomeIcon",
+      "name": "籍贯",
+      "value": "福建漳州"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "出生年月",
+      "value": "1993年10月"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "工作喜好",
+      "value": "全职工作"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "联系方式",
+      "value": "15505922750"
+    },
+    {
+      "icon": "EnvelopeIcon",
+      "name": "邮箱地址",
+      "value": "wiseglint@foxmail.com"
+    }
+  ],
+  "skill": [
+    "Vue3",
+    "TypeScript",
+    "Pinia",
+    "Sass",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "ElementPlus",
+    "NodeJS",
+    "MySql",
+    "Redis",
+    "C#",
+    "WPF",
+    "RevitAPI",
+    "Git"
+  ],
+  "experience": [
+    {
+      "job": "研发工程师",
+      "company": "福建左海科技有限公司",
+      "companyLogo": "img/company/zit.jpg",
+      "location": "福州",
+      "workType": "全职",
+      "start": "2020年11月",
+      "end": "至今",
+      "description": "于福建左海科技有限公司，担任研发工程师。主要负责在Revit、CAD、Tekla平台下进行插件二次开发，进行建筑模型的自动化处理以及模型数据的导出。同时负责web管理平台的开发以及模型数据对接，负责MES平台以及CRM平台的前后端开发，对模型数据进行可视化展示以及管理，主要使用技术栈为Vuejs、Nestjs、Redis以及Mysql。"
+    },
+    {
+      "job": "施工员、技术员",
+      "company": "中国建筑第四工程局有限公司福州分公司",
+      "companyLogo": "img/company/cscec.jpg",
+      "location": "福州",
+      "workType": "全职",
+      "start": "2019年10月",
+      "end": "2020年11月",
+      "description": "于中国建筑第四工程局福州万科澜悦花园项目，担任工程管理部技术员及现场施工员。主要负责施工方案编制、CAD制图、BIM模型绘制，现场施工管理等工作。"
+    },
+    {
+      "job": "施工员、技术员",
+      "company": "中国水利水电第七工程局有限公司南方分公司",
+      "companyLogo": "img/company/powerchina.jpg",
+      "location": "深圳",
+      "workType": "全职",
+      "start": "2017年7月",
+      "end": "2019年10月",
+      "description": "于中国水利水电第七工程局深圳市前海三小项目、深圳市北线引水工程安全隐患整改（含龙茜供水改造工程）项目，担任工程管理部技术员及现场施工员。主要负责Project施工计划编排、施工方案编制、公司报表材料、工程算量、对上对下工程计量、设计变更编制、现场技术交底、CAD制图、对外征地协调等工作。"
+    }
+  ],
+  "education": [
+    {
+      "college": "华侨大学",
+      "collegeLogo": "img/college/huaqiao.jpg",
+      "course": "土木工程",
+      "start": "2013",
+      "end": "2017"
+    }
+  ],
+  "project": [
+    {
+      "name": "MES智能生产平台",
+      "description": "MES智能生产平台围绕构件生产、仓储、物流、安装全过程业务，服务于构件生产企业，提供项目要货、生产准备、生产过程、构件存储、物流运输、现场吊装各阶段的信息化应用，辅助管理人员提高多方沟通效率，提升生产管理的科学性。",
+      "language": "Vue3、NodeJS、MySQL、Redis",
+      "image": "img/project/mes.png"
+    },
+    {
+      "name": "CRM客户营销平台",
+      "description": "CRM客户营销平台是一款旨在帮助企业建立、维护和提升与客户之间关系的综合性软件解决方案。支持线索管理、商机管理、客户管理、项目管理、合同登记、合同执行登记、对账单管理、合同回款的完整客户关系业务管理体系。",
+      "language": "Vue3、NodeJS、MySQL、Redis",
+      "image": "img/project/crm.png"
+    },
+    {
+      "name": "Revit铝模深化设计系统",
+      "description": "Revit铝模深化设计系统是基于Revit平台进行二次开发的深化设计插件，对铝模设计业务流程进行全链路辅助。支持铝模自动化建模，模型批量调整，加工图纸编辑，自动化图纸标注，批量图纸导出，构件BOM数量导出以及平台数据对接。",
+      "language": "C#、WPF、RevitAPI",
+      "image": "img/project/revit.png"
+    }
+  ]
+}
